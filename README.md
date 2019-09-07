@@ -26,7 +26,7 @@ Grove Path station is a popular start and end point in Jersey City due to commut
 ----------------------------------------------------------------------------------------------------------------------------------------
 ![](image/4.PNG)
 
-During the summer months commuters tend to linger outside longer and during winter the decline is quite sharp after 5.00pm since summer the days are longer and during winter the days get shorter.
+During the summer months commuters tend to linger outside longer and during winter the decline is quite sharp after 5.00pm since summer the days are longer and during winter the days get shorter and colder.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ![](image/5.PNG)
