@@ -18,3 +18,7 @@ to the older demographics.
 
 ![](image/3.PNG)
 
+Grove Path station is a popular start and end point in Jersey City due to commuters living in Jersey City parking their bikes and taking the train to NYC and vice versa after returning back from NYC commueters take the bikes to ride back home.
+
+![](image/4.PNG)
+
