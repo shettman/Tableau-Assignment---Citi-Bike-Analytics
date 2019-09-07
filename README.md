@@ -9,3 +9,5 @@ Since NYC is a popular tourist destination 24 hour passes are being purchased wh
 the improvement of the weather.
 The Total Annual membership seems to decline during the peak winter months and shows a steady increase during the following months
 when the weather improves.
+
+![](image/2.PNG)
