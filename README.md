@@ -37,7 +37,7 @@ Female ridership is quite high compared to the male and peaks during the month o
 ![](image/6.PNG)
 ![](image/7.PNG)
 
-The maps show that Jersey City is a popular start and end destination, commuters park the bikes at the train station; Grove Path Station in Jersey City being the most popular start and end destinations. The commuters are taking the train into NYC for work and then retruning back home to Jersey City and then taking bikes to ride back home.
+The maps show that Jersey City is a popular start and end destination, commuters park the bikes at the train station; Grove Path Station in Jersey City being the most popular start and end destination. The commuters are taking the train into NYC for work and then returning back to Jersey City and then take bikes to ride back home.
 ________________________________________________________________________________________________________________________________________
 
 
