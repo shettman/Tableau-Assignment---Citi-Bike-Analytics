@@ -31,7 +31,7 @@ During the summer months commuters tend to linger outside longer and during wint
 ----------------------------------------------------------------------------------------------------------------------------------------
 ![](image/5.PNG)
 
-Female ridership is quite high compared to the male and peaks during the month of May,
+Female ridership is quite high compared to the males and peaks during the month of May,
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ![](image/6.PNG)
