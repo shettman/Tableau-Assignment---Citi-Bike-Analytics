@@ -34,6 +34,7 @@ Female ridership is quite high compared to the male and peaks during the month o
 
 
 ![](image/6.PNG)
+![](image/7.PNG)
 
 
 
